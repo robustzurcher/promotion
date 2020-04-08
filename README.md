@@ -8,7 +8,7 @@ We incorporate techniques from distributionally robust optimization into a dynam
 
 ## Presentation
 
-We provide the most recent version of our slide deck [here](https://github.com/robustzurcher/promotion/raw/master/Blesch%26Eisenhauer_2020_slides.pdf) and a recording is available [online](https://vimeo.com/nuvolos/review/405110545/111a183a04?sort=lastUserActionEventDate&direction=desc) as well.  
+We provide our current slide deck [here](https://github.com/robustzurcher/promotion/raw/master/Blesch%26Eisenhauer_2020_slides.pdf) and a recent recording is available [online](https://vimeo.com/nuvolos/review/405110545/111a183a04?sort=lastUserActionEventDate&direction=desc) as well.  
 
 ## Computational support
 
