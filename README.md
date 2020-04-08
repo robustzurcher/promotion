@@ -13,4 +13,4 @@ We develop two software packages in support of this research. We ensure transpar
 * `ruspy`, open-source package for estimating and simulating infinite horizon single-agent discrete choice model in the setting
 of Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
 
-* `robpy`, open-source package for finding worst-case probabilities in the context of robust decision making. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
+* `robupy`, open-source package for finding worst-case probabilities in the context of robust decision making. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
