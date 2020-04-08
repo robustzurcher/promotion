@@ -6,11 +6,14 @@ We incorporate techniques from distributionally robust optimization into a dynam
 
 * Blesch, M., Eisenhauer, P. (2020). [Robust investment under risk and ambiguity](https://github.com/robustzurcher/promotion/raw/master/Eisenhauer%26Blesch.2020.pdf). Submitted.
 
+## Presentation
+The most recent version of our slide deck can be found [here](). Thanks to Gregro Reich for the illustrative introduction to the Rust (1987) Model.
+
 ## Computational support
 
 We develop two software packages in support of this research. We ensure transparency, reproducibility, and extensibility by documenting both of them online.
 
-* `ruspy`, open-source package for estimating and simulating infinite horizon single-agent discrete choice model in the setting
-of Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
+* `ruspy`, A Python package for the simulation and estimation of a prototypical infinite-
+horizon dynamic discrete choice model based Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
 
-* `robupy`, open-source package for finding worst-case probabilities in the context of robust decision making. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
+* `robupy`, A Python package for robust optimization. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
