@@ -12,8 +12,8 @@ We provide the most recent version of our slide deck [here](https://github.com/r
 
 ## Computational support
 
-We develop two software packages in support of this research. We ensure transparency, reproducibility, and extensibility by documenting both of them online.
+We develop two software packages in support of this research. We ensure transparency, reproducibility, and extensibility by providing both of them online.
 
-* [`ruspy`](https://github.com/OpenSourceEconomics/ruspy) (2019). An open-source package for the simulation and estimation of a prototypical infinite-horizon dynamic discrete choice model based Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
+* [`ruspy`](https://github.com/OpenSourceEconomics/ruspy) (2019). An open-source package for the simulation and estimation of a prototypical infinite-horizon dynamic discrete choice model based on Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
 
-* [`robupy`](https://github.com/OpenSourceEconomics/robupy) (2019). A open-source package for robust optimization. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
+* [`robupy`](https://github.com/OpenSourceEconomics/robupy) (2019). An open-source package for robust optimization. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
