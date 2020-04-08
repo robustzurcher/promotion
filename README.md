@@ -7,7 +7,7 @@ We incorporate techniques from distributionally robust optimization into a dynam
 * Blesch, M., Eisenhauer, P. (2020). [Robust investment under risk and ambiguity](https://github.com/robustzurcher/promotion/raw/master/Eisenhauer%26Blesch.2020.pdf). Submitted.
 
 ## Presentation
-The most recent version of our slide deck can be found [here](). Thanks to Gregro Reich for the illustrative introduction to the Rust (1987) Model.
+The most recent version of our slide deck can be found [here](). Thanks to Gregor Reich for the illustrative introduction to the Rust (1987) Model.
 
 ## Computational support
 
