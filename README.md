@@ -4,15 +4,16 @@ We incorporate techniques from distributionally robust optimization into a dynam
 
 ## Manuscript
 
-* Blesch, M., Eisenhauer, P. (2020). [Robust investment under risk and ambiguity](https://github.com/robustzurcher/promotion/raw/master/Eisenhauer%26Blesch.2020.pdf). Submitted.
+* Blesch, M., Eisenhauer, P. (2020). [Robust investment under risk and ambiguity](https://github.com/robustzurcher/promotion/raw/master/Blesch%26Eisenhauer_2020_manuscript.pdf). Submitted.
 
 ## Presentation
-The most recent version of our slide deck can be found [here](https://github.com/robustzurcher/promotion/blob/master/slides_Blesch%26Eisenhauer.pdf). A recording of the [E-Brownbag seminar](https://sites.google.com/site/simonscheidegger/compeconfin-seminar) presentation can be found [here](https://vimeo.com/nuvolos/review/405110545/111a183a04?sort=lastUserActionEventDate&direction=desc).
+
+We provide the most recent version of our slide deck [here](https://github.com/robustzurcher/promotion/raw/master/Blesch%26Eisenhauer_2020_slides.pdf) and a recording is available [online](https://vimeo.com/nuvolos/review/405110545/111a183a04?sort=lastUserActionEventDate&direction=desc) as well.  
 
 ## Computational support
 
 We develop two software packages in support of this research. We ensure transparency, reproducibility, and extensibility by documenting both of them online.
 
-* [`ruspy`](https://github.com/OpenSourceEconomics/ruspy) (2019). A Python package for the simulation and estimation of a prototypical infinite-horizon dynamic discrete choice model based Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
+* [`ruspy`](https://github.com/OpenSourceEconomics/ruspy) (2019). An open-source package for the simulation and estimation of a prototypical infinite-horizon dynamic discrete choice model based Rust (1987). More details are available in our [online documentation](https://ruspy.readthedocs.io/en/latest/#).
 
-* [`robupy`](https://github.com/OpenSourceEconomics/robupy) (2019). A Python package for robust optimization. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
+* [`robupy`](https://github.com/OpenSourceEconomics/robupy) (2019). A open-source package for robust optimization. More details are available in our [online documentation](https://robupy.readthedocs.io/en/latest/#).
